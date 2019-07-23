@@ -23,6 +23,8 @@
 - get a friend to compliment you as practice to how you respond to other people
 - "Mistakes Were Made, But Not By Us" - book around psychology on others helping/favoring you
 - having your elevator pitch ready for yourself
+    - even if you don't know what you want, what are you doing to find out?
+    - how can you widen your experience to make sure you're able to make that decision later?
 
 ### Ch 6: Habit 2: Expecting Others to Spontaneously Notice and Reward You Contributions
 - you need to be the adovacate for yourself (self-promotion needs to be your responsibility)
