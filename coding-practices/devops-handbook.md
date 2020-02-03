@@ -26,6 +26,7 @@
     * go to the stakeholders with the wire frames and grab feedback before you start working on something you created
 
 ### Ch 4: The Third Way: The Principles of Continual Learning and Experimentation
+-Swarming: don't do new work
 -Enabling organizational learning: 
 
 1. The Pathological - info is hidden, new ideas are crushed
