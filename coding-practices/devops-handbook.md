@@ -39,3 +39,19 @@
     * Not throw blame on failures but instead accept them and take them as learning/sharing knowledge?
         * does that come from a team-by-team basis? or does it have to come from the top?
 
+
+## Part 2: Where To Start
+
+### Ch 5: Which Value Stream To Work With
+-greenfield vs brownfield projects - you can develop the devops system with either, though there is a myth it needs to be a new project (greenfield)
+-Nordstrom example where they were able to dedicate a team to prioritize fixing certain things
+-don't just throw more people at the problem - try to fix how it's working
+
+### Ch 6: Understanding the Work in Our Value Stream
+-pg69: 20% time should be used to pay off technical debt
+    * or else you will get to a place where you're only going to be doing that
+    * is this doable in practice? how can you get a company to prioritize this? not really been able to see it done before
+    * pitch that technical debt change as a "new idea" and give the stakeholder something that they will gain from it (saving money, faster development times, etc)
+    * a lot of technical debt comes from bad programming practices - what standard is enough?
+    * golden rule: leave the repo better than you found it
+-dedicated team with very specific goals/measures of success to be able to get to a solution that can be measured
